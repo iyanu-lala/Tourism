@@ -209,3 +209,14 @@ body {
 .color {
     background-color: #F2E9E1;
 }
+.section5 {
+    height: 766px;
+    border: 2px solid;
+    margin-top: 80px;
+}
+.section5-h2 {
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #A76C34;
+}
